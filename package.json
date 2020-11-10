@@ -1,0 +1,30 @@
+{
+  "name": "homework_arrays",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anastasiamilikovskaya/Homework_Array.git"
+  },
+  "keywords": [
+    "html5",
+    "css3",
+    "ecmascript6"
+  ],
+  "author": "Anastasia Milikovskaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anastasiamilikovskaya/Homework_Array/issues"
+  },
+  "homepage": "https://github.com/anastasiamilikovskaya/Homework_Array#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.12.1",
+    "@babel/core": "^7.12.3",
+    "@babel/node": "^7.12.6",
+    "@babel/preset-env": "^7.12.1"
+  }
+}
