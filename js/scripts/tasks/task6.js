@@ -1,9 +1,9 @@
-function getNumber2(a, b) {
-    if (a > b) {
-        return a;
-    } else {
-        return b;
+function getSquares2() {
+    let i = 0;
+    while (i < 10) {
+        console.log(i*i); 
+        i++;
     }
 }
 
-export { getNumber2 };
+export { getSquares2 };
