@@ -1,0 +1,21 @@
+td{
+    border: solid grey 1px;
+    width: 50px;
+    height: 50px;
+}
+
+.color{
+    background-color: mediumpurple;
+}
+
+header{
+    background-color: orchid;
+}
+
+#txt{
+    width: 300px;
+}
+
+.colorWidth{
+    color: red;
+}
